@@ -35,5 +35,5 @@ To clone and run any of the C files using Terminal:
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:krithikseelam/code-with-harry-c-programming.git
+git clone git@github.com:krithikseelam/code-tutorial-c-programming.git
 cd code-with-harry-c-programming
